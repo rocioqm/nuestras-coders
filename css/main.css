@@ -13,11 +13,6 @@ h1 {
   margin: 10px 0;
 }
 
-img {
-  width: 350px;
-  height: 350px;
-}
-
 .d1 {
   display: inline-block;
   margin-left: auto;
@@ -130,4 +125,9 @@ img {
   position: absolute;
   top: 310px;
   left: 190px;
+}
+
+img {
+  width: 350px;
+  height: 350px;
 }
