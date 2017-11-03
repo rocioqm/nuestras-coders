@@ -13,18 +13,115 @@ h1 {
   margin: 10px 0;
 }
 
-div {
-  display: inline-block;
-}
-
-figure {
-  margin: 20px 0 ;
-  padding: 0;
-}
-
 img {
-  width: 70%;
-  display: block;
-  margin: 0;
-  padding: 0;
+  width: 350px;
+  height: 350px;
+}
+
+.d1 {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.f1 {
+  margin: 20px 20px 20px 0;
+}
+
+.p1 {
+  color: white;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+}
+ 
+.d2 {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.f2 {
+  margin: 20px 20px 20px 0;
+}
+
+.p2 {
+  color: white;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+}
+
+.d3 {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.f3 {
+  margin: 20px 20px 20px 0;
+}
+
+.p3 {
+  color: white;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+}
+
+.d4 {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.f4 {
+  margin: 20px 20px 20px 0;
+}
+
+.p4 {
+  color: white;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+}
+
+.d5 {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.f5 {
+  margin: 20px 20px 20px 0;
+}
+
+.p5 {
+  color: white;
+  position: absolute;
+  top: 380px;
+  left: 200px;
+}
+
+.d6 {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.f6 {
+  margin: 20px 20px 20px 0;
+}
+
+.p6 {
+  color: white;
+  position: absolute;
+  top: 380px;
+  left: 200px;
 }
