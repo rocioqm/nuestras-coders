@@ -1,0 +1,30 @@
+body {
+  font-family: 'Bitter';
+}
+
+hr {
+  border: 3px solid black;
+  width: 120px;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+div {
+  display: inline-block;
+}
+
+figure {
+  margin: 20px 0 ;
+  padding: 0;
+}
+
+img {
+  width: 70%;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
